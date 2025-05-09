@@ -3,11 +3,11 @@
         {
             "name": "Target 1",
             "includePath": [
-                "d:\\project_item\\STM32\\P7_阿巴阿巴1 - 副本 (6)\\Start",
-                "d:\\project_item\\STM32\\P7_阿巴阿巴1 - 副本 (6)\\Library",
-                "d:\\project_item\\STM32\\P7_阿巴阿巴1 - 副本 (6)\\User",
-                "d:\\project_item\\STM32\\P7_阿巴阿巴1 - 副本 (6)\\System",
-                "d:\\project_item\\STM32\\P7_阿巴阿巴1 - 副本 (6)\\Hardware",
+                "d:\\project_item\\STM32\\PublicProject\\stm32\\p7\\Start",
+                "d:\\project_item\\STM32\\PublicProject\\stm32\\p7\\Library",
+                "d:\\project_item\\STM32\\PublicProject\\stm32\\p7\\User",
+                "d:\\project_item\\STM32\\PublicProject\\stm32\\p7\\System",
+                "d:\\project_item\\STM32\\PublicProject\\stm32\\p7\\Hardware",
                 "D:\\Software\\Keil_v5\\ARM\\ARMCC\\include",
                 "D:\\Software\\Keil_v5\\ARM\\ARMCC\\include\\rw"
             ],
